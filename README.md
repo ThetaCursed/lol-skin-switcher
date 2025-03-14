@@ -1,6 +1,7 @@
 # LoL Skin Switcher
 
 LoL Skin Switcher is a free, easy-to-use tool for previewing and applying skins in League of Legends. Quickly browse and switch between a vast collection of skins for your favorite champions.
+
 ![](img/2.png)
 **Features:**
 

@@ -10,7 +10,6 @@ LoL Skin Switcher is a free, easy-to-use tool for previewing and applying skins 
 *   **Extensive Skin Preview:** View almost every skin in the game before applying.
 *   **Intuitive Navigation:** Easily find and select skins with a user-friendly interface.
 *   **Safe to Use:** Designed with safety and account security in mind.
-*   **Completely Free:** Open-source and available at no cost.
 *   **Easy Skin Application:** Simple drag-and-drop for applying skins.
 
 **How to Use:**

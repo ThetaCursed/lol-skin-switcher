@@ -11,15 +11,13 @@ LoL Skin Switcher is a free, easy-to-use tool for previewing and applying skins 
 *   **Intuitive Navigation:** Easily find and select skins with a user-friendly interface.
 *   **Safe to Use:** Designed with safety and account security in mind.
 *   **Completely Free:** Open-source and available at no cost.
-*   **Easy Skin Application:** Simple drag-and-drop interface for applying skins.
+*   **Easy Skin Application:** Simple drag-and-drop for applying skins.
 
 **How to Use:**
 
-1.  Select your champion.
-2.  Browse and preview available skins.
-3.  Locate the skin file in the opened directory.
-4.  Drag and drop the skin file into the application.
-5.  Activate the skin.
+1.  Download the latest release - https://github.com/ThetaCursed/lol-skin-switcher/releases
+2.  Follow the instructions in the video
+
 
 **Disclaimer:**
 

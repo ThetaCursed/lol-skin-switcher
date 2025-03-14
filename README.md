@@ -17,8 +17,7 @@ LoL Skin Switcher is a free, easy-to-use tool for previewing and applying skins 
 
 1.  Download the latest release - https://github.com/ThetaCursed/lol-skin-switcher/releases
 2.  Follow the instructions in the video
-(https://img.youtube.com/vi/nqt23wCpNoI/0.jpg)(https://www.youtube.com/watch?v=nqt23wCpNoI)
-
+[![Watch the video](https://img.youtube.com/vi/nqt23wCpNoI/0.jpg)](https://www.youtube.com/watch?v=nqt23wCpNoI)
 **Disclaimer:**
 
 *   This tool is for applying skins and is not affiliated with Riot Games.
